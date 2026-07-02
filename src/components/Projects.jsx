@@ -2,7 +2,7 @@ import { useState } from "react";
 import Modal from "react-modal";
 
 import home from "../assets/projects/home.png";
-import banking from "../assets/projects/bankingChatbot.png"; 
+import banking from "../assets/projects/bankChatbot.png"; 
 
 Modal.setAppElement("#root");
 
